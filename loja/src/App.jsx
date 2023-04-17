@@ -4,6 +4,7 @@ import Header from './Componentes/Header'
 import Nav from './Componentes/Nav'
 import ImageNav from './Componentes/ImageNav'
 import Catalogo from './Componentes/Catalogo'
+import News from './Componentes/News'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Nav/>
       <ImageNav/>
       <Catalogo/>
+      <News/>
     </div>
   )
 }

@@ -1,6 +1,6 @@
 function Nav(){
     return(
-        <div className="flex items-center justify-evenly w-full h-20 border-y font-thin">
+        <div className="flex items-center justify-evenly w-full h-20 border-y  text-xs">
             <p>ÓLEOS ESSENCIAIS</p>
             <p>ÓLEOS VEGETAIS</p>
             <p>SINERGIAS</p>

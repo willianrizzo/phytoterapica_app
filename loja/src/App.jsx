@@ -3,6 +3,7 @@ import './App.css'
 import Header from './Componentes/Header'
 import Nav from './Componentes/Nav'
 import ImageNav from './Componentes/ImageNav'
+import Catalogo from './Componentes/Catalogo'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Nav/>
       <ImageNav/>
+      <Catalogo/>
     </div>
   )
 }

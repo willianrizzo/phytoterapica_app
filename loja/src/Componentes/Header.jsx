@@ -2,6 +2,7 @@ import Logo from "../assets/logo.png"
 import User from "../assets/user.svg"
 import Cart from "../assets/cart.svg"
 
+
 function Header(){
     return(
         <div className="flex w-full justify-between p-14 items-center border-y">

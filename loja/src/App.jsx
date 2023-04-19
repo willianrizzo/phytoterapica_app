@@ -6,6 +6,7 @@ import ImageNav from './Componentes/ImageNav'
 import Catalogo from './Componentes/Catalogo'
 import News from './Componentes/News'
 
+
 function App() {
   return (
     <div>
@@ -14,6 +15,7 @@ function App() {
       <ImageNav/>
       <Catalogo/>
       <News/>
+      <Footer/>
     </div>
   )
 }
